@@ -5,17 +5,18 @@ Every skill and agent in the OS, wherever it lives. **Check here before building
 **Status:** 💡 idea · 🛠️ planned or building · ✅ built · 🔁 running on a schedule
 **Installed:** where Claude can use it today. The goal is for every row to say *plugin* (installed from the repo).
 
+TikTok 9:16 layout rules are built into each slide and video skill (see the Little Panda skill template), not kept as a separate skill.
+
+**Retired:** AI Vocab series (`ai-vocab-script`, `ai-vocab-slides`), sunset 2026-11-25.
+
 ## Skills
 
 | Skill | Repo | Track | What it does | Status | Installed |
 |---|---|---|---|---|---|
 | [`deal-decoded-script`](https://github.com/BossDragon1120/Little-Panda-Education/tree/main/skills/deal-decoded-script) | Little Panda | M&A | 75–90 s talk track, deal card, caption, sources for a $1B+ deal | ✅ | ⚠️ not installed |
 | [`deal-decoded-video`](https://github.com/BossDragon1120/Little-Panda-Education/tree/main/skills/deal-decoded-video) | Little Panda | M&A | Silent 1080×1920 MP4 in navy and lime, timed to the script | ✅ | ⚠️ uploaded copy (may drift) |
-| `ai-vocab-script` | Little Panda | AI | One AI term per video, plain language | 🛠️ | — |
-| `ai-vocab-slides` | Little Panda | AI | AI Vocab slides, Golden Gate Bridge photography | 🛠️ | — |
-| `course-explainer-script` | Little Panda | All | Key ideas from a course module | 🛠️ | — |
-| `course-explainer-slides` | Little Panda | All | Course Explainer slides | 🛠️ | — |
-| `tiktok-format` | Little Panda | All | Shared 9:16 layout rules for every slide builder: clear of the search bar at top and caption area at bottom, no wasted space in the middle, no panda | 🛠️ | — |
+| `course-explainer-script` | Little Panda | All | Talk track for a Course Explainer: key ideas from a course module | 🛠️ | — |
+| [`course-explainer-video`](https://github.com/BossDragon1120/Little-Panda-Education/tree/main/skills/course-explainer-video) | Little Panda | All | Course Explainer slides rendered as a silent 1080×1920 MP4 (frosted panel, animated diagrams), timed for voiceover | ✅ | ⚠️ not installed |
 | [`book-whisper`](https://github.com/BossDragon1120/Book-Whispers/tree/main/skills/book-whisper) | Book & Podcast Whispers | Business | Raw book dictation → reflection, threads, reading log | ✅ | ⚠️ not installed |
 | [`podcast-whisper`](https://github.com/BossDragon1120/Book-Whispers/tree/main/skills/podcast-whisper) | Book & Podcast Whispers | M&A | Raw episode dictation → episode note, agent ideas, listening log | ✅ | ⚠️ not installed |
 | `ma-science` | **Account only** → move to Book & Podcast Whispers | M&A | Answers M&A questions from M&A Science transcripts, with episode links | ✅ | ⚠️ uploaded copy, no repo |
