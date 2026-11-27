@@ -15,6 +15,8 @@ Every skill and agent in the OS, wherever it lives. **Check here before building
 | `ai-vocab-slides` | Little Panda | AI | AI Vocab slides, Golden Gate Bridge photography | 🛠️ | — |
 | `course-explainer-script` | Little Panda | All | Key ideas from a course module | 🛠️ | — |
 | `course-explainer-slides` | Little Panda | All | Course Explainer slides | 🛠️ | — |
+| [`course-explainer-video`](https://github.com/BossDragon1120/Little-Panda-Education/tree/main/skills/course-explainer-video) | Little Panda | AI | 60–90 s course explainer video: frosted panel over my photo, animated diagrams, timed to my voiceover | ✅ | ⚠️ not installed |
+| [`animated-infographic`](https://github.com/BossDragon1120/Little-Panda-Education/pull/4) | Little Panda | AI, Tech topics | One looping TikTok infographic (MP4 + PNG + caption), or a 2-slide photo carousel (short teaser, then the answer). First final: silicon vs. optics carousel (AI Concepts), 2026-11-27 | 🛠️ PR #4 open | — |
 | `tiktok-format` | Little Panda | All | Shared 9:16 layout rules for every slide builder: clear of the search bar at top and caption area at bottom, no wasted space in the middle, no panda | 🛠️ | — |
 | [`book-whisper`](https://github.com/BossDragon1120/Book-Whispers/tree/main/skills/book-whisper) | Book & Podcast Whispers | Business | Raw book dictation → reflection, threads, reading log | ✅ | ⚠️ not installed |
 | [`podcast-whisper`](https://github.com/BossDragon1120/Book-Whispers/tree/main/skills/podcast-whisper) | Book & Podcast Whispers | M&A | Raw episode dictation → episode note, agent ideas, listening log | ✅ | ⚠️ not installed |
